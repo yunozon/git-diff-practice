@@ -1,3 +1,6 @@
 # git-diff-practice
 Git動画講座diff練習用
 複数ファイル変更3回目
+mainmain
+mergetoolを試したいのです
+間違ってmainブランチで変更しました。どうしたらいいでしょうか
